@@ -3,14 +3,15 @@
     "anos": {
         "2022": [
             "https://raw.githubusercontent.com/TiagoDGomes/ifsp-cursos-teste/refs/heads/main/exemplo.json",
-            "https://raw.githubusercontent.com/TiagoDGomes/ifsp-cursos-teste/refs/heads/main/exemplo.json",
-            "https://raw.githubusercontent.com/TiagoDGomes/ifsp-cursos-teste/refs/heads/main/exemplo.json",
-            "https://raw.githubusercontent.com/TiagoDGomes/ifsp-cursos-teste/refs/heads/main/exemplo.json",
-            "https://raw.githubusercontent.com/TiagoDGomes/ifsp-cursos-teste/refs/heads/main/exemplo2.json"
+            "https://raw.githubusercontent.com/TiagoDGomes/ifsp-cursos-teste/refs/heads/main/exemplo2.json",
+            "https://raw.githubusercontent.com/TiagoDGomes/ifsp-cursos-teste/refs/heads/main/exemplo3.json",
+            "https://raw.githubusercontent.com/TiagoDGomes/ifsp-cursos-teste/refs/heads/main/exemplo4.json"
         ],
         "2021": [
             "https://raw.githubusercontent.com/TiagoDGomes/ifsp-cursos-teste/refs/heads/main/exemplo3.json",
-            "https://raw.githubusercontent.com/TiagoDGomes/ifsp-cursos-teste/refs/heads/main/exemplo4.json"
+            "https://raw.githubusercontent.com/TiagoDGomes/ifsp-cursos-teste/refs/heads/main/exemplo4.json",
+            "https://raw.githubusercontent.com/TiagoDGomes/ifsp-cursos-teste/refs/heads/main/exemplo.json",
+            "https://raw.githubusercontent.com/TiagoDGomes/ifsp-cursos-teste/refs/heads/main/exemplo2.json"
         ]
     }
 }
